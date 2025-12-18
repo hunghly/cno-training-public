@@ -53,3 +53,11 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# Additional ignores
+*:Zone.Identifier
+main
+libutils.so
+utils.o
+
+**/src-solutions/
