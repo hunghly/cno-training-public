@@ -1,11 +1,24 @@
 # About this project
-A list of tools to help with learn some cyber developer concepts.
+This project is designed to teach people some cyber development skills.
 
-Goals
+You should go through each exercise and learn the concepts. Then use your research skills to program those concepts in C.
+
+*Note*: This is a personal project and it's mainly for my own learning but it might as well be used to teach others as well.
+
+*Note*: I programmed most of these examples using WSL and POSIX C. If there are any deviations from this, it will be documented in the exercises.
+
+### Topics that I would like to cover:
+
 1. Reverse shell
+    - You will create a reverse shell using C.
 2. Remote Access Tool
-3. Kernel Driver Tool
-4. More?!?
+    - You will create a RAT that can perform simple tasks on a victim machine.
+3. Encryption or Obfuscation
+4. Custom network protocols
+5. Kernel Driver Tool
+5. More topics eventually
+
+
 
 ## How to practice
 
